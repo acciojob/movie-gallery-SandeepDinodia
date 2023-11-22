@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.container-fluid{
+	display:flex;
+	justify-content:center;
+	flex-wrap:wrap;
+}
+.img{
+	margin:5px;
+}
